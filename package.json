@@ -2,17 +2,12 @@
   "name": "portable-files",
   "version": "0.0.1",
   "main": "index.js",
-  "files": [
-    "bin",
-    "dist",
-    "!*~"
-  ],
+  "files": ["bin", "dist", "!*~"],
   "bin": {
     "portable-path": "bin/portable_path.js"
   },
   "scripts": {
-    "build": "gulp build",
-    "test": "npm run build && gulp test"
+    "test": "gulp test"
   },
   "husky": {
     "hooks": {
