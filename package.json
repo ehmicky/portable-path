@@ -3,13 +3,8 @@
   "version": "0.0.1",
   "main": "dist/index.js",
   "files": [
-    "bin",
-    "dist",
-    "!*~"
+    "dist"
   ],
-  "bin": {
-    "portable-path": "bin/portable_path.js"
-  },
   "scripts": {
     "test": "gulp test"
   },
