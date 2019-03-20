@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.4.0",
-    "core-js": "^3.0.0",
+    "core-js": "^2.6.5",
     "yargs": "^13.2.2"
   },
   "devDependencies": {
