@@ -49,7 +49,7 @@
     "test": "test"
   },
   "dependencies": {
-    "@babel/runtime": "^7.3.4",
+    "@babel/runtime": "^7.4.0",
     "core-js": "^2.6.5",
     "yargs": "^13.2.2"
   },
