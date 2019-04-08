@@ -1,5 +1,3 @@
-'use strict'
-
 const check = function() {
   return true
 }
