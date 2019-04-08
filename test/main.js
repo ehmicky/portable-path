@@ -1,4 +1,4 @@
-const test = require('ava')
+import test from 'ava'
 
 test('dummy test', t => {
   t.true(true)
