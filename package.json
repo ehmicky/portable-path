@@ -53,7 +53,7 @@
     "yargs": "^13.2.4"
   },
   "devDependencies": {
-    "ava": "^1.4.1",
+    "ava": "^2.0.0",
     "gulp": "^4.0.2",
     "gulp-shared-tasks": "^0.29.2",
     "husky": "^2.3.0"
