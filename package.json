@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.1",
-    "yargs": "^14.2.0"
+    "yargs": "^15.0.1"
   },
   "devDependencies": {
     "@ehmicky/dev-tasks": "^0.30.55",
