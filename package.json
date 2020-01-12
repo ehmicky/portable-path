@@ -49,7 +49,7 @@
     "test": "test"
   },
   "dependencies": {
-    "core-js": "^3.6.3",
+    "core-js": "^3.6.4",
     "yargs": "^15.1.0"
   },
   "devDependencies": {
