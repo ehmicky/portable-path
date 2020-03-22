@@ -1,5 +1,5 @@
 import test from 'ava'
 
-test('dummy test', t => {
+test('dummy test', (t) => {
   t.true(true)
 })
