@@ -11,7 +11,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "gulp check --full"
+      "pre-push": "gulp -LL check --full"
     }
   },
   "description": "Ensure a file path is cross-platform, i.e. valid on any OS (Windows/Mac/Linux/BSD)",
