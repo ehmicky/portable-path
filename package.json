@@ -48,9 +48,7 @@
     "lib": "src",
     "test": "test"
   },
-  "dependencies": {
-    "yargs": "^15.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@ehmicky/dev-tasks": "^0.31.49",
     "ava": "^3.8.2",
