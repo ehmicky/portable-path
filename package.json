@@ -50,7 +50,7 @@
     "test": "test"
   },
   "devDependencies": {
-    "@ehmicky/dev-tasks": "^1.0.12"
+    "@ehmicky/dev-tasks": "^1.0.13"
   },
   "engines": {
     "node": ">=12.20.0"
